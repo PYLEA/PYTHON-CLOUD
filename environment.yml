@@ -3,7 +3,6 @@ dependencies:
   - pip:
     - scipy
     - numpy
-    - turtle
     - pandas
     - matplotlib
     - spacy
@@ -23,7 +22,6 @@ dependencies:
     - Bokeh
     - Plotly
     - pygal
-    - geoplotlib
     - missingno
     - StatsModels
     - scrapy
